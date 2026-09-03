@@ -28,7 +28,7 @@ not transmit on any RF interface.
 ## Installation
 
 ```bash
-git clone 
+git clone https://github.com/skuldexter-web/par-avion-test.git
 cd par_avion
 chmod +x install.sh
 ./install.sh
