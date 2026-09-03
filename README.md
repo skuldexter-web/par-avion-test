@@ -28,7 +28,7 @@ not transmit on any RF interface.
 ## Installation
 
 ```bash
-git clone <this-repo>
+git clone 
 cd par_avion
 chmod +x install.sh
 ./install.sh
