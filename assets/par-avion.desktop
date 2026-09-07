@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=PAR AVION
-Comment=Tactical RF & Telemetry Suite
-Exec=__PAR_AVION_ROOT__/.venv/bin/python __PAR_AVION_ROOT__/main.py
-Icon=__PAR_AVION_ROOT__/assets/par-avion.svg
-Terminal=false
-Type=Application
-Categories=Utility;Science;HamRadio;
-StartupNotify=true
