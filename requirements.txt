@@ -1,0 +1,12 @@
+customtkinter>=5.2.2,<6
+psutil>=5.9
+pyrtlsdr==0.2.93
+gpsd-py3>=0.3.0
+pyserial>=3.5
+requests>=2.31.0
+skyfield>=1.47
+numpy>=1.26.0
+scipy>=1.11.0
+sounddevice>=0.4.6
+pyModeS<3,>=2.13
+Pillow>=10.0.0
